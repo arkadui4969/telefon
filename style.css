@@ -1,0 +1,93 @@
+header{
+    top: 100px;
+}
+.razryv{
+    height: 100px;
+}
+.logo{
+    text-align: center;
+    padding: 20px;
+    margin: 40px 0 0 0;
+    background-color:#FFFFFF;
+    justify-content:space-around;
+
+}
+
+    
+
+main{
+    padding: 10;
+    
+    margin: 40px;
+}
+body{
+    background-color:#DCDCDC;
+}
+.foto{
+    display:contents ;
+}
+
+li a {
+    display: block;
+    width: 60px;
+}
+
+
+
+footer{
+    text-align: center;
+    padding: 20px;
+    justify-content:space-around;
+    background-color:#FFFFFF;
+
+}
+.ramka{
+    border-top-style: 5px ;
+    border-color:#565656;
+    border-top-style:solid ;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
